@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abelhuayamave
-- 👀 I’m interested in coding, learning new languages, creating software that coould help society. 
-- 🌱 I’m currently learning JS, MySQL and Bootstrap 
+- 👀 I’m interested in coding, analizing data, provide feedback to businesses, creating software that coould help society. 
+- 🌱 I’m currently learning MySQL, Python, Tableu & PowerBI.
 - 💞️ I’m looking to collaborate on any life changing application
 - 📫 How to reach me abelhuayamave@gmail.com
 
